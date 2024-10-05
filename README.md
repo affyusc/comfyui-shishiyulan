@@ -18,11 +18,11 @@ Wukong Nodes 是一个专为 **ComfyUI** 框架设计的图像处理工具包，
 使用以下命令克隆仓库到本地：
 
 ```bash
-git clone https://github.com/yourusername/comfyui-wukong.git
+git clone https://github.com/affyusc/comfyui-shishiyulan.git
 
 需要下载light_leak.pkl放到插件目录：通过网盘分享的文件：light_leak.pkl
 链接: https://pan.baidu.com/s/1dc3VyfyDVCF_SCZZgj6v7g?pwd=txks 提取码: txks 
---来自百度网盘超级会员v5的分享
+
 
 
 
