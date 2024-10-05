@@ -1,8 +1,6 @@
-哈喽大家好我是悟空：
 # Wukong Nodes
 
-大家有需求可以抖音搜索悟空（AI摄影）或者大师兄（AIGC）
-大家有需求可以抖音搜索悟空（AI摄影）或者大师兄（AIGC）
+大家有需求可以抖音搜索悟空（AI摄影）或者大师兄（AIGC）。
 
 Wukong Nodes 是一个专为 **ComfyUI** 框架设计的图像处理工具包，提供了一系列可实时预览的节点，方便用户在进行图像处理和色彩迁移时快速获得结果。该项目旨在帮助开发者和艺术家高效地处理图像，并实现复杂的图像效果。
 
@@ -21,11 +19,16 @@ Wukong Nodes 是一个专为 **ComfyUI** 框架设计的图像处理工具包，
 
 ```bash
 git clone https://github.com/yourusername/comfyui-wukong.git
+
 ## 示例图
 
 以下是使用 Wukong Nodes 进行图像处理的示例：
 
 ![实时调节实时预览调色](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190203.png)
+
+## 示例图
+
+以下是使用 Wukong Nodes 进行图像处理的示例：
 
 1. 使用 **加速图像处理** 的节点设置示例：
    ![示例图 1](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190203.png)
