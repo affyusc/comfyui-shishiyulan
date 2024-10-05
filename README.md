@@ -20,42 +20,7 @@ Wukong Nodes 是一个专为 **ComfyUI** 框架设计的图像处理工具包，
 ```bash
 git clone https://github.com/yourusername/comfyui-wukong.git
 
-## 示例图
 
-以下是使用 Wukong Nodes 进行图像处理的示例：
-
-![实时调节实时预览调色](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190203.png)
-
-## 示例图
-
-以下是使用 Wukong Nodes 进行图像处理的示例：
-
-1. 使用 **加速图像处理** 的节点设置示例：
-   ![示例图 1](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190203.png)
-
-2. 使用 **融合调整的模型工具** 的节点设置示例：
-   ![示例图 2](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190211.png)
-
-3. 使用 **色彩迁移** 的节点设置示例：
-   ![示例图 3](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190234.png)
-
-4. 使用 **亮度调整** 的节点设置示例：
-   ![示例图 4](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190248.png)
-
-5. 使用 **对比度调整** 的节点设置示例：
-   ![示例图 5](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190343.png)
-
-6. 使用 **饱和度调整** 的节点设置示例：
-   ![示例图 6](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190348.png)
-
-7. 使用 **效果图像处理** 的节点设置示例：
-   ![示例图 7](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190415.png)
-
-8. 使用 **实时效果预览** 的节点设置示例：
-   ![示例图 8](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190624.png)
-
-9. 使用 **最终效果图** 的节点设置示例：
-   ![示例图 9](https://github.com/affyusc/comfyui-shishiyulan/raw/main/image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241005190746.png)
 
 
 贡献
