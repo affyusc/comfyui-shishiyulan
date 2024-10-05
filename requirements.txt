@@ -1,0 +1,9 @@
+requests
+torchvision
+scipy
+scikit-image
+aiohttp
+pilgram
+tkinter
+base64
+lzma
